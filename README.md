@@ -1,4 +1,4 @@
-<p> 2021Mogaco-CNN plan </p>
+<h2> 2021Mogaco-CNN plan </h2>
 
 <ul>
   <li> 12/27 경사 하강법 </li>
